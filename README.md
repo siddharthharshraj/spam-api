@@ -178,4 +178,4 @@ The base URL for the API is: `http://localhost:4000/api`
 
 ## Conclusion
 
-This document serves as a guide to test all the available API endpoints for the Instahyre Full Stack Developer Task - Siddharth Harsh Raj
+This document serves as a guide to test all the available API endpoints.
